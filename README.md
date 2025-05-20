@@ -1,4 +1,4 @@
-# 🪄 InteractiveWand
+# 🪄 Interactive Wand
 
 A personal passion project recreating the magic of spellcasting through computer vision, machine learning, and themed show control — all powered by a Raspberry Pi 5 and written entirely in Python.
 
